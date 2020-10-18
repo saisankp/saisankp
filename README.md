@@ -1,4 +1,13 @@
-### Hi there 👋
+## Greetings! Welcome to my Github account 👋
+[![HitCount](http://hits.dwyl.com/saisankp/saisankp.svg)](http://hits.dwyl.com/saisankp/saisankp)
+### Who am I? 
+- I am a 2nd year Computer Science Student @ Trinity College Dublin 📚.
+- I am a passionate progammer who likes to make great things (with a bit of luck 😄).
+- I love to learn everyday, and I'm always looking for challenging but rewarding work opportunities! 👌
+- Connect with me on LinkedIn at www.linkedin.com/in/prathameshsai/
+- You can reach me by email at saisankp@tcd.ie 📧
+
+  
 
 <!--
 **saisankp/saisankp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
