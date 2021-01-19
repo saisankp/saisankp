@@ -19,9 +19,6 @@ My name is Prathamesh Sai and I'm a 2nd year Computer Science Student @ <a href=
 <img align="left" alt="Eclipse" width="100px" height="25px" style="white-space: pre-line" src="https://www.eclipse.org/artwork/images/v2/logo-800x188.png" />
 <br>
 <br>
-<br>
-<br>
-
 <details>
   <summary>:🌟 Most Used Languages</summary>
 
