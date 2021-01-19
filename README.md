@@ -21,6 +21,7 @@ My name is Prathamesh Sai and I'm a 2nd year Computer Science Student @ <a href=
 <br>
 
 <details>
+  <br>
   <summary>:🌟 Most Used Languages</summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisankp)](https://github.com/anuraghazra/github-readme-stats)
