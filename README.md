@@ -16,12 +16,11 @@ My name is Prathamesh Sai and I'm a 2nd year Computer Science Student @ <a href=
 <img align="left" alt="Java" width="42px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />
 <img align="left" alt="Vivado" width="80px" src="https://i.pinimg.com/originals/7f/f9/8f/7ff98f2c655d51be15b0e1c3dbc2ba00.jpg" />
 <img align="left" alt="BaseX" width="35px" src="https://micheee.github.io/images/static/basex-web-slides/webroot/images/BaseX.png" />
-<img align="left" alt="Eclipse" width="100px" height="25px" src="https://www.eclipse.org/artwork/images/v2/logo-800x188.png" />
+<img align="left" alt="Eclipse" width="100px" height="25px" style="white-space: pre-line" src="https://www.eclipse.org/artwork/images/v2/logo-800x188.png" />
 <br>
 <br>
 
 <details>
-  <br>
   <summary>:🌟 Most Used Languages</summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisankp)](https://github.com/anuraghazra/github-readme-stats)
