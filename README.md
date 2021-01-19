@@ -21,14 +21,14 @@ My name is Prathamesh Sai and I'm a 2nd year Computer Science Student @ <a href=
 <br>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>:🌟 Most Used Languages</summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisankp)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>✨ GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=saisankp&show_icons=true&hide_border=true" />
 
