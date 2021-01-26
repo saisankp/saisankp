@@ -1,4 +1,4 @@
-## Welcome to my Github Account [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px"/>][website]
+## Welcome to my Github Account <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px"/>
 [<img src="https://i.imgur.com/qUDc3xT.jpg" width="100px" height="40px"/>](https://www.prathameshsai.live/)
 [<img src="https://i.imgur.com/ALYIqIx.jpg" width="100px" height="40px"/>](https://www.linkedin.com/in/prathameshsai/)
 [<img src="https://i.imgur.com/KbgA7qS.jpg" width="100px" height="40px"/>](https://www.hackerrank.com/prathameshsai?hr_r=1)
