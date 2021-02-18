@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Github Account <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px"/></h1>
 
-My name is Prathamesh Sai and I'm a 2nd year Computer Science Student @ <a href="https://www.tcd.ie/">Trinity College Dublin<a/>. I have a deep passion for technology and love to code!
+<p align="center">My name is Prathamesh Sai and I'm a 2nd year Computer Science Student @ <a href="https://www.tcd.ie/">Trinity College Dublin<a/>. I have a deep passion for technology and love to code!</p>
 
 <p align = "center">
 <a>
