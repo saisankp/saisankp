@@ -26,11 +26,16 @@ src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code> <co
   </p>
 
 ---
+<p align="center">
+
+  <div align="center">
 [<img align="center" src="https://i.imgur.com/qUDc3xT.jpg" width="100px" height="40px"/>](https://www.prathameshsai.live/)
 [<img align="center" src="https://i.imgur.com/ALYIqIx.jpg" width="100px" height="40px"/>](https://www.linkedin.com/in/prathameshsai/)
 [<img align="center" src="https://i.imgur.com/KbgA7qS.jpg" width="100px" height="40px"/>](https://www.hackerrank.com/prathameshsai?hr_r=1)
 [<img align="center" src="https://i.imgur.com/YyKlcRT.jpg" width="100px" height="40px"/>](mailto:saisankp@tcd.ie/)
-
+  </div>
+  </p>
+  
 <p align = "center">
  <b>I'm currently interested in Summer Internships for 2021! 😃</b>
 </p>
