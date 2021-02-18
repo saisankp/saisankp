@@ -7,6 +7,16 @@
 
 ### Happy you're here!
 My name is Prathamesh Sai and I'm a 2nd year Computer Science Student @ <a href="https://www.tcd.ie/">Trinity College Dublin<a/>. I have a deep passion for technology and love to code!
+
+<p align = "center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saisankp&show_icons=true&theme=tokyonight&line_height=27.5" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisankp&hide=css,java,html&theme=tokyonight&line_height=29" />
+</a>
+</p>
+  
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=saisankp&show_icons=true&theme=tokyonight&line_height=27.5">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saisankp&hide=css,java,html&theme=tokyonight&line_height=29">
