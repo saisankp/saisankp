@@ -8,7 +8,7 @@
 ### Happy you're here!
 My name is Prathamesh Sai and I'm a 2nd year Computer Science Student @ <a href="https://www.tcd.ie/">Trinity College Dublin<a/>. I have a deep passion for technology and love to code!
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=saisankp&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=saisankp&show_icons=true&theme=tokyonight&line_height=27.5">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saisankp&hide=css,java,html&theme=tokyonight&line_height=29">
 </p>
   
