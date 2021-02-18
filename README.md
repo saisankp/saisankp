@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=saisankp)
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px"/></h1>
 
 <p align="center">My name is Prathamesh Sai and I'm a 2nd year Computer Science Student @ <a href="https://www.tcd.ie/">Trinity College Dublin<a/>. I have a deep passion for technology and love to code!</p>
@@ -27,6 +26,7 @@ src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code> <co
   </p>
 
 ---
+![](https://komarev.com/ghpvc/?username=saisankp)
 <p align="center">
 
   <div align="center">
@@ -38,5 +38,4 @@ src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code> <co
 <p align = "center">
  <b>I'm currently interested in Summer Internships for 2021! 😃</b>
 </p>
-
 ---
