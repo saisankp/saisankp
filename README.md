@@ -6,7 +6,11 @@
 
 ### Happy you're here!
 My name is Prathamesh Sai and I'm a 2nd year Computer Science Student @ <a href="https://www.tcd.ie/">Trinity College Dublin<a/>. I have a deep passion for technology and love to code!
-
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=saisankp&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saisankp&hide=css,java,html&theme=tokyonight">
+</p>
+  
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
