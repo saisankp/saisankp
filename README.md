@@ -1,9 +1,7 @@
+<h1 align="center">Welcome to my Github Account <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px"/></h1>
 
-## Welcome to my Github Account <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px"/>
-[<img src="https://i.imgur.com/qUDc3xT.jpg" width="100px" height="40px"/>](https://www.prathameshsai.live/)
-[<img src="https://i.imgur.com/ALYIqIx.jpg" width="100px" height="40px"/>](https://www.linkedin.com/in/prathameshsai/)
-[<img src="https://i.imgur.com/KbgA7qS.jpg" width="100px" height="40px"/>](https://www.hackerrank.com/prathameshsai?hr_r=1)
-[<img src="https://i.imgur.com/YyKlcRT.jpg" width="100px" height="40px"/>](mailto:saisankp@tcd.ie/)
+---
+
 
 ### Happy you're here!
 My name is Prathamesh Sai and I'm a 2nd year Computer Science Student @ <a href="https://www.tcd.ie/">Trinity College Dublin<a/>. I have a deep passion for technology and love to code!
