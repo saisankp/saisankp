@@ -11,8 +11,7 @@
 </a>
 </p>
 
-### Languages and Tools:
-
+<h2 align="center">Languages and Tools <img src="https://media2.giphy.com/media/3jnNUNEuDSYdoGmU7Q/giphy.gif" width="30px"/></h2>
 <p align="center">
 
   <div align="center">
