@@ -26,7 +26,7 @@ src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></a></code>
   </p>
 
 ---
-<h2 align="center">𝐅𝐢𝐧𝐝 𝐨𝐮𝐭 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 <img src="http://cdn.lowgif.com/full/8fc27cf03cd243fc-cursor-gif-14-gif-images-download.gif" width="20px"/></h2>
+<h2 align="center">𝐅𝐢𝐧𝐝 𝐨𝐮𝐭 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 <img src="https://media2.giphy.com/media/SX6DYBa3PPqWmM4y02/giphy.gif" width="30px"/></h2>
 <p align="center">
   <div align="center">
   <a href="https://www.hackerrank.com/prathameshsai?hr_r=1">
