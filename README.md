@@ -41,7 +41,6 @@ src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></a></code>
 </p>
 
 ---
-<img src="https://komarev.com/ghpvc/?username=saisankp">
-<a href="https://www.tcd.ie/courses/undergraduate/az/course.php?id=DUICS-ICSC-2F09">
+<img src="https://komarev.com/ghpvc/?username=saisankp"><a href="https://www.tcd.ie/courses/undergraduate/az/course.php?id=DUICS-ICSC-2F09">
 <img src="https://img.shields.io/badge/style-TCD%202019%E2%80%942023-success?&style=flat&message=hi&label=B.A.%20Computer%20Science">
 </a>
