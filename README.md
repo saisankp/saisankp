@@ -6,11 +6,12 @@
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saisankp&show_icons=true&theme=tokyonight&line_height=27.5" />
 </a>
+</p>
+<p align = "center">
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisankp&hide=css,java,html&theme=tokyonight&line_height=29" />
 </a>
-</p>
-
+  </p>
 <h2 align="center">𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 <img src="https://media2.giphy.com/media/3jnNUNEuDSYdoGmU7Q/giphy.gif" width="30px"/></h2>
 <p align="center">
 
