@@ -1,6 +1,6 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px"/></h1>
 
-<p align="center">My name is Prathamesh Sai and I'm a 2nd year Computer Science Student ＠ <a href="https://www.tcd.ie/">Trinity College Dublin<a/>. I have a deep passion for technology and love to code!</p>
+<p align="center">My name is Prathamesh Sai and I'm a 2nd year Computer Science Student ＠ <a href="https://www.tcd.ie/">Trinity College Dublin<a/>. I have a deep passion for technology and love to code. I am currently interning as a software engineer at <a href="https://www.murex.com">Murex</a>.</p>
 
 <p align = "center">
 <a href="">
@@ -33,9 +33,6 @@ src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></a></code>
     <a href="mailto:saisankp@tcd.ie/"><img src="https://camo.githubusercontent.com/01f96a3cbcc63f66c762dbd1531643cbd83dcb9ab9d0f2ba580444341e305b02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d4431343833363f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"></a>
     </div>
   </p>
-<p align = "center">
- <b>I'm currently interested in Summer Internships for 2021! 😃</b>
-</p>
 
 ---
 <div align="center">
