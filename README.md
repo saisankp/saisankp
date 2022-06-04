@@ -1,4 +1,4 @@
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px"/></h1>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22"/></h1>
 
 <p align="center">My name is Prathamesh Sai and I'm a 4th year Computer Science Student ＠ <a href="https://www.tcd.ie/">Trinity College Dublin<a/>. I have a deep passion for technology and I love to code.
 
@@ -8,7 +8,7 @@
 </a>
 </p>
 
-<h2 align="center">𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 <img src="https://media2.giphy.com/media/3jnNUNEuDSYdoGmU7Q/giphy.gif" width="30px"/></h2>
+<h2 align="center">𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 <img src="https://media2.giphy.com/media/3jnNUNEuDSYdoGmU7Q/giphy.gif" width="30"/></h2>
 <p align="center">
 
   <div align="center">
@@ -23,7 +23,7 @@ src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></a></code>
   </p>
 
 ---
-<h2 align="center">𝐅𝐢𝐧𝐝 𝐨𝐮𝐭 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 <img src="https://media2.giphy.com/media/SX6DYBa3PPqWmM4y02/giphy.gif" width="30px"/></h2>
+<h2 align="center">𝐅𝐢𝐧𝐝 𝐨𝐮𝐭 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 <img src="https://media2.giphy.com/media/SX6DYBa3PPqWmM4y02/giphy.gif" width="30"/></h2>
 <p align="center">
   <div align="center">
     <a href="https://prathameshsai.live/">
