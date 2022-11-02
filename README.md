@@ -1,6 +1,6 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22"/></h1>
 
-<p align="center">My name is Prathamesh Sai and I'm a 4th year Computer Science Student ＠ <a href="https://www.tcd.ie/">Trinity College Dublin<a/>. I have a deep passion for technology and I love to code.
+<p align="center">My name is Prathamesh Sai and I'm a 4th year Computer Science Student (M.C.S.) ＠ <a href="https://www.tcd.ie/">Trinity College Dublin<a/>. I have a deep passion for technology and I love to code.
 
 <p align = "center">
 <a href="">
@@ -33,6 +33,6 @@
 ---
 <div align="center">
 <a href="https://github.com/saisankp"><img src="https://komarev.com/ghpvc/?username=saisankp"></a><a href="https://www.tcd.ie/courses/undergraduate/az/course.php?id=DUICS-ICSC-2F09">
-<img src="https://img.shields.io/badge/style-TCD%202019%E2%80%942023-success?&style=flat&message=hi&label=B.A.%20Computer%20Science">
+<img src="https://img.shields.io/badge/style-TCD%202019%E2%80%942024-success?&style=flat&message=hi&label=Master%20in%20Computer%20Science%20(M.C.S.)">
 </a>
 </div>
