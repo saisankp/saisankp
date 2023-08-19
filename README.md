@@ -33,6 +33,6 @@
 ---
 <div align="center">
 <a href="https://github.com/saisankp"><img src="https://komarev.com/ghpvc/?username=saisankp"></a><a href="https://www.tcd.ie/courses/undergraduate/az/course.php?id=DUICS-ICSC-2F09">
-<img src="https://img.shields.io/badge/style-TCD%202019%E2%80%942024-success?&style=flat&message=hi&label=Master%20in%20Computer%20Science%20(M.C.S.)">
+<img src="https://img.shields.io/badge/style-TCD%202019%E2%80%942024-success?&style=flat&message=hi&label=Master%20in%20Computer%20Science%20(MCS)">
 </a>
 </div>
