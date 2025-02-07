@@ -1,4 +1,4 @@
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22"/></h1>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22"/></h1>
 
 <p align="center">My name is Prathamesh Sai and I'm a Software Engineer at <a href="https://github.com/microsoft/Omex">Microsoft</a>. I am also an Integrated Computer Science Graduate ＠ <a href="https://www.tcd.ie/">Trinity College Dublin<a/> who holds B.A.(Mod) and M.C.S. degrees spanning 5 years of study. I have a deep passion for technology and I love to code.
 
